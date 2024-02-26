@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/md-mahfooz-alam-ansari-587828190" target="blank"><img align="center" src="https://i.imgur.com/0v0l6P7.png" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/mahfooz ansari" target="blank"><img align="center" src="https://i.imgur.com/lMSGBY1.png" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/mahfooz_zada" target="blank"><img align="center" src="https://i.imgur.com/8I31Ote.png" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/data unbox" target="blank"><img align="center" src="https://i.imgur.com/8oOeRyb.png" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/md-mahfooz-alam-ansari-587828190" target="blank"><img align="center" src="https://i.imgur.com/wUHlCdq.png" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/mahfooz ansari" target="blank"><img align="center" src="https://i.imgur.com/9Wp8xL7.png" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/mahfooz_zada" target="blank"><img align="center" src="https://i.imgur.com/K4NtaAI.png" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/data unbox" target="blank"><img align="center" src="https://i.imgur.com/WysjRzS.png" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
