@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mahfooz Alam Ansari</h1>
 <h3 align="center">A passionate Data Scientist/AI/ML Engineer from India</h3>
-
-![MicrosoftTeams-image](https://github.com/Mahfooz167/Mahfooz167/assets/138190810/7ae1a3ff-4d71-481f-ac9c-935e77a0ac93)
+replace replace ![ image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100"> with <img src="https://your-image-url.type" width="100" height="100">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfooz167&label=Profile%20views&color=0e75b6&style=flat" alt="mahfooz167" /> </p>
