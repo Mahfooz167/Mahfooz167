@@ -31,7 +31,7 @@
 <p align="left"> 
   <img src="https://images.unsplash.com/photo-1649180556628-9ba704115795?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHl0aG9uJTIwbG9nb3xlbnwwfHwwfHx8MA%3D%3D" alt="Python" width="200" height="110"/>
   <img src="https://img.freepik.com/free-vector/abstract-technology-sql-illustration_23-2149237139.jpg?size=338&ext=jpg&ga=GA1.1.1827530304.1709078400&semt=sph" alt="SQL" width="80" height="80"/>
-  <img src="https://github.com/Mahfooz167/Mahfooz_College_Bot/assets/138190810/c8fc4aa8-83ab-4c5d-8177-fdf39cb1c66b" alt="Excel" width="800" height="200"/>
+  <img src="https://github.com/Mahfooz167/Mahfooz_College_Bot/assets/138190810/c8fc4aa8-83ab-4c5d-8177-fdf39cb1c66b" alt="Excel" width="900" height="250"/>
 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfooz167&show_icons=true&locale=en&layout=compact" alt="mahfooz167" /></p>
