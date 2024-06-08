@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Mahfooz Alam Ansari</h1>
 <h3 align="center">A passionate Data Scientist/AI/ML Engineer from India</h3>
 
-<p align="center"> <img src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOXY22AAGRBUXLDZAFY6QJARKI.jpg" with your fictional image URL -->
+<p align="center"> <img src="![MicrosoftTeams-image](https://github.com/Mahfooz167/Mahfooz167/assets/138190810/7ae1a3ff-4d71-481f-ac9c-935e77a0ac93)
+" with your fictional image URL -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfooz167&label=Profile%20views&color=0e75b6&style=flat" alt="mahfooz167" /> </p>
 
